@@ -6,3 +6,5 @@ to code by yourself and yes it was all done without the help of AI like ChatGPT 
 
 
 Thank You !!
+
+Update [22/07/2026]: Hello there the login system shown here in this repo. is very basic, but i have now completed a full login system that stores data into mysql and also signup and login properly and it also encrypts password into SHA256 Please Check it Out also..
